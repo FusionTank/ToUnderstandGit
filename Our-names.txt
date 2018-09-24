@@ -16,3 +16,4 @@ green
 black
 rainbow
 YELLOW
+Purple
