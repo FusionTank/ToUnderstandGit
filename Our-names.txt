@@ -12,7 +12,14 @@ J.R.(Add Full Name)
 Ben Messing around to understand.....
 red
 blue
+
 green
+  Bulbasaur
+
+  Ivysaur
+
+  Venusaur
+
 black
 rainbow
 YELLOW
