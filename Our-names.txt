@@ -23,3 +23,6 @@ black
 rainbow
 YELLOW
 Purple
+
+
+Play area below----
