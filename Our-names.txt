@@ -11,14 +11,23 @@ J.R.(Add Full Name)
 
 Ben Messing around to understand.....
 red
+  Charmander
+
+  Charmeleon
+
+  Charizard
+
+
 blue
-  Squirtle
 
-  Wartortle
-
-  Blastoise
 
 green
+  Bulbasaur
+
+  Ivysaur
+
+  Venusaur
+
 black
 rainbow
 YELLOW
